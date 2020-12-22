@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "appdashboard-d9a73": {
+      "hosting": {
+        "appIngresos": [
+          "appdashboard-d9a73"
+        ]
+      }
+    }
+  }
+}
